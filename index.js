@@ -1,2 +1,17 @@
+let num1 = 2;
+let num2 = 31;
+let multiply = num1 * num2;
+console.log(multiply)
 
+let random = Math.floor(Math.random() * 10) + 1;
+console.log (random)
+
+let num3 = 24;
+let num4 = 5;
+let mod = (num3 % num4);
+console.log(mod)
+
+let max = 20;
+Math.max (1, 17, 9, 5, 20)
+console.log (max)
 // Write your code here
